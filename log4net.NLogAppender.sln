@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.NLogAppender", "Source\log4net.NLogAppender\log4net.NLogAppender.csproj", "{6DC26274-8B27-4B4F-8281-F6DB9E51BDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Source\Sample\Sample.csproj", "{2F6882D7-7AEC-4180-A1A0-0A1E90B7AEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC26274-8B27-4B4F-8281-F6DB9E51BDEF}.Debug|x86.ActiveCfg = Debug|x86
+		{6DC26274-8B27-4B4F-8281-F6DB9E51BDEF}.Debug|x86.Build.0 = Debug|x86
+		{6DC26274-8B27-4B4F-8281-F6DB9E51BDEF}.Release|x86.ActiveCfg = Release|x86
+		{6DC26274-8B27-4B4F-8281-F6DB9E51BDEF}.Release|x86.Build.0 = Release|x86
+		{2F6882D7-7AEC-4180-A1A0-0A1E90B7AEFA}.Debug|x86.ActiveCfg = Debug|x86
+		{2F6882D7-7AEC-4180-A1A0-0A1E90B7AEFA}.Debug|x86.Build.0 = Debug|x86
+		{2F6882D7-7AEC-4180-A1A0-0A1E90B7AEFA}.Release|x86.ActiveCfg = Release|x86
+		{2F6882D7-7AEC-4180-A1A0-0A1E90B7AEFA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

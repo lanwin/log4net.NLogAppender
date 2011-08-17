@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>log4net.NLogAppender</id>
+    <version>1.0.0.0</version>
+    <authors>Steve Wagner</authors>
+    <projectUrl>https://github.com/lanwin/log4net.NLogAppender</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>PSake is a build automation tool written in PowerShell</summary>
+    <description>
+      foo
+    </description>
+    <language>en-US</language>
+    <tags>logging nlog log4net appender</tags>
+  </metadata>
+</package>
