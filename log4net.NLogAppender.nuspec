@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>log4net.NLogAppender</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>Steve Wagner (lanwin)</authors>
     <projectUrl>https://github.com/lanwin/log4net.NLogAppender</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -19,7 +19,7 @@
     <tags>logging nlog log4net appender bride</tags>
     <dependencies>
       <dependency id="NLog" version="[2.0.0,)" />
-      <dependency id="log4net" version="[1.2.0,)" />
+      <dependency id="log4net" version="[1.2.11,)" />
     </dependencies>
   </metadata>
   <files>
