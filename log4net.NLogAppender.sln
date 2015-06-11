@@ -1,9 +1,16 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.NLogAppender", "Source\log4net.NLogAppender\log4net.NLogAppender.csproj", "{6DC26274-8B27-4B4F-8281-F6DB9E51BDEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Source\Sample\Sample.csproj", "{2F6882D7-7AEC-4180-A1A0-0A1E90B7AEFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D90FB1E6-329E-4F3F-B2D3-9B3E0A9D273C}"
+	ProjectSection(SolutionItems) = preProject
+		log4net.NLogAppender.nuspec = log4net.NLogAppender.nuspec
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
