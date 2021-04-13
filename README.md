@@ -8,7 +8,7 @@ Simply call the following line and you are done:
 
    NLogAppender.Initialize();
    
-##Get it
+## Get it
 You can grab it via NuGet by searching for '''log4net.NLogAppender'''
 
 ## Contributors
