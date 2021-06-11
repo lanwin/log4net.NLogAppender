@@ -1,6 +1,6 @@
-﻿using System;
+﻿using log4net;
 using NLog.Config;
-using log4net;
+using System;
 using LogManager = NLog.LogManager;
 
 namespace Sample

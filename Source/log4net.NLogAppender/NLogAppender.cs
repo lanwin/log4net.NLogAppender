@@ -1,9 +1,9 @@
-using System;
-using System.Collections.Generic;
-using NLog;
 using log4net.Appender;
 using log4net.Config;
 using log4net.Core;
+using NLog;
+using System;
+using System.Collections.Generic;
 
 namespace log4net
 {
